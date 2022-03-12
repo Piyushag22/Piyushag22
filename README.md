@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piyushag22
 - 👀 I’m interested in Web Development Projects
-- 🌱 I’m currently 
+- 🌱 I’m currently Programmer Analyst Trainee At Cognizant
 - 📫 Reach me at 9517305356
 
 <!---
